@@ -1,0 +1,16 @@
+Initialize engine version: 4.5.1f3 (73cd57f80e3e)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon R9 200 Series (ID=0x6798)
+    Vendor:   ATI
+    VRAM:     3050 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Ian\Documents\Unity Work\FingerTrap\TimeFlyer\TimeFlyer_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Ian\Documents\Unity Work\FingerTrap\TimeFlyer\TimeFlyer_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Ian\Documents\Unity Work\FingerTrap\TimeFlyer\TimeFlyer_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Ian\Documents\Unity Work\FingerTrap\TimeFlyer\TimeFlyer_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+- Completed reload, in  0.041 seconds
+desktop: 1920x1200 60Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
